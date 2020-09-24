@@ -11,7 +11,7 @@ paginate = 5
     url = "drurathror@protonmail.com"
   [[params.social]]
     name = "key"
-    url = "https://www.drurathror.com/drurathtor.asc"
+    url = "/drurathror.txt"
   [[params.social]]
     name = "rss"
     url = "https://www.drurathror.com/index.xml"
