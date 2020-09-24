@@ -1,17 +1,18 @@
-baseURL = "https://www.drurathror.com"
-title = "drurathror"
+baseURL = "https://example.com"
+title = "Your title"
+themesDir = "../.."
 theme = "m10c"
 paginate = 5
 
 [params]
-  author = "drurathror"
-  description = "/dev/random"
+  author = "John Doe"
+  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
   [[params.social]]
     name = "github"
-    url = "https://github.com/drurathror"
+    url = "https://github.com/gohugoio"
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/drurathror"
+    url = "https://twitter.com/gohugoio"
 
   # Brown theme
   #[params.style]
